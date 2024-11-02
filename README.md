@@ -18,19 +18,4 @@ This project contains three programs:
   pytest tests/
 
 ## Project Directory Structure
-my_project/
-├── .github/
-│   └── workflows/
-│       └── python-app.yml         # GitHub Actions workflow for automated testing
-├── inputs/
-│   └── input.txt                  # Text file for word frequency input data
-├── src/
-│   ├── word_frequency.py          # Word frequency program
-│   ├── circular_queue.py          # Circular queue implementation
-│   ├── password_validator.py      # Password validation program
-│   └── main.py                    # Main file to run all programs concurrently
-├── tests/
-│   ├── test_word_frequency.py     # Unit test for word frequency program
-│   ├── test_circular_queue.py     # Unit test for circular queue
-│   └── test_password_validator.py # Unit test for password validation
-└── README.md                      # README file with project instructions
+![Untitled Workspace](https://github.com/user-attachments/assets/177d1e9f-5530-411b-bfc6-e9cfa37e4bab)
